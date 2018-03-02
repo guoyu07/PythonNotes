@@ -1,4 +1,4 @@
 PythonNotes
 ===========
 
-Python Notes
+Python notes
